@@ -7,4 +7,6 @@
   console.log('Add Feature 2');
 
   console.log('Hot fix 1');
+
+  console.log('Hot fix 2');
 }());
